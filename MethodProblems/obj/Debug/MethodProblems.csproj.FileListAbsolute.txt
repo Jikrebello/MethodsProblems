@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\bin\Debug\MethodProblems.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\bin\Debug\MethodProblems.exe
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\bin\Debug\MethodProblems.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\obj\Debug\MethodProblems.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\obj\Debug\MethodProblems.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\obj\Debug\MethodProblems.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\obj\Debug\MethodProblems.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\obj\Debug\MethodProblems.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\obj\Debug\MethodProblems.exe
+E:\Visual Studio Projects\C# Intermediate Programming\MethodProblems\obj\Debug\MethodProblems.pdb
